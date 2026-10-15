@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PriceWatch — competitor price intelligence for small stores</title>
+<meta name="description" content="Weekly competitor price and stock digests for small e-commerce stores. We track the product pages you choose and email you what moved.">
+<style>
+  :root{--bg:#0d1117;--card:#161b22;--line:#30363d;--fg:#e6edf3;--mut:#8b949e;--acc:#2f81f7;--ok:#3fb950}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}
+  .wrap{max-width:960px;margin:0 auto;padding:48px 20px}
+  h1{font-size:2.3rem;line-height:1.15;margin:0 0 12px}
+  h2{font-size:1.35rem;margin:44px 0 12px}
+  p.lede{color:var(--mut);font-size:1.12rem;margin:0 0 28px;max-width:62ch}
+  .cta{display:flex;gap:12px;flex-wrap:wrap;margin:24px 0 8px}
+  a.btn{display:inline-block;background:var(--acc);color:#fff;text-decoration:none;padding:12px 20px;border-radius:8px;font-weight:600}
+  a.btn.alt{background:transparent;border:1px solid var(--line);color:var(--fg)}
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin-top:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px}
+  .card h3{margin:0 0 6px;font-size:1.05rem}
+  .price{font-size:1.6rem;font-weight:700;margin:6px 0}
+  .price small{font-size:.85rem;color:var(--mut);font-weight:400}
+  ul{padding-left:20px}li{margin:4px 0}
+  .mut{color:var(--mut)}
+  table{border-collapse:collapse;width:100%;margin-top:10px;font-size:.94rem}
+  th,td{border:1px solid var(--line);padding:8px;text-align:left}
+  th{background:#1c2128}
+  footer{margin-top:56px;border-top:1px solid var(--line);padding-top:18px;color:var(--mut);font-size:.9rem}
+  code{background:#1c2128;padding:2px 6px;border-radius:5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Know when a competitor changes a price — before your customers do.</h1>
+  <p class="lede">Send me the product pages you care about. Every week you get one email: what the price is now, what it was last week, what moved, and who went out of stock. No dashboard to log into, no setup on your side.</p>
+
+  <div class="cta">
+    <a class="btn" data-mailto data-subject="PriceWatch free trial request" data-body="Hi,&#10;&#10;Store name:&#10;Products I want tracked (up to 5 URLs):&#10;1.&#10;2.&#10;3.&#10;&#10;Thanks!">Start free 2-week trial</a>
+    <a class="btn alt" href="digest.html">See a real digest</a>
+  </div>
+  <p class="mut">Trial is free for 2 weeks, up to 5 products, no card. Cancel by replying to any digest email.</p>
+
+  <h2>What you get</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Price movements</h3>
+      <p class="mut">Current price, previous price, absolute and percentage change per product.</p>
+    </div>
+    <div class="card">
+      <h3>Stock signals</h3>
+      <p class="mut">Flags products that went out of stock or came back — useful for promotion timing.</p>
+    </div>
+    <div class="card">
+      <h3>One email, no login</h3>
+      <p class="mut">Markdown and HTML digest in your inbox. Forward it to your team as-is.</p>
+    </div>
+    <div class="card">
+      <h3>Freshness</h3>
+      <p class="mut">Runs are timestamped. Broken scrapes are reported, never silently skipped.</p>
+    </div>
+  </div>
+
+  <h2 id="sample">A real run</h2>
+  <p class="mut">Actual output from the production engine, run against public test-store pages on 2026-10-15 (first observation, so no deltas yet). The full generated page is at <a href="digest.html">digest.html</a>:</p>
+  <table>
+    <thead><tr><th>Product</th><th>Price</th><th>Change</th><th>Stock</th></tr></thead>
+    <tbody>
+      <tr><td>A Light in the Attic</td><td>£51.77</td><td>first observation</td><td>in stock</td></tr>
+      <tr><td>Tipping the Velvet</td><td>£53.74</td><td>first observation</td><td>in stock</td></tr>
+      <tr><td>Soumission</td><td>£50.10</td><td>first observation</td><td>in stock</td></tr>
+    </tbody>
+  </table>
+  <p class="mut" style="font-size:.9rem">Those are public test-store pages, not a client. Your digest covers your own URLs — and it reports failures instead of hiding them, so a silent scrape break never costs you a week.</p>
+
+  <h2>Pricing</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Starter</h3>
+      <div class="price">$29<small>/month</small></div>
+      <ul><li>5 tracked products</li><li>Weekly digest</li><li>Email support</li></ul>
+      <a class="btn alt" data-mailto data-subject="PriceWatch Starter">Choose Starter</a>
+    </div>
+    <div class="card">
+      <h3>Growth</h3>
+      <div class="price">$79<small>/month</small></div>
+      <ul><li>25 tracked products</li><li>Daily digest</li><li>Stock-out alerts</li><li>Email support</li></ul>
+      <a class="btn" data-mailto data-subject="PriceWatch Growth">Choose Growth</a>
+    </div>
+    <div class="card">
+      <h3>Agency</h3>
+      <div class="price">$199<small>/month</small></div>
+      <ul><li>100 tracked products</li><li>Daily digest</li><li>Per-client report split</li><li>Priority support</li></ul>
+      <a class="btn alt" data-mailto data-subject="PriceWatch Agency">Choose Agency</a>
+    </div>
+  </div>
+
+  <h2>How billing works</h2>
+  <p class="mut">The trial is free. After it you are invoiced monthly in advance, and you can pay either way:</p>
+  <div class="grid">
+    <div class="card">
+      <h3>PayPal</h3>
+      <p class="mut">Fastest option, and it takes cards.</p>
+      <a class="btn" href="https://paypal.me/hanyemad746" rel="noopener">paypal.me/hanyemad746</a>
+    </div>
+    <div class="card">
+      <h3>USDT</h3>
+      <p class="mut">Send on the <strong>Polygon (PoS)</strong> network only. Funds sent on any other network are lost.</p>
+      <p><code>0xb7360b4a0fe9e330bf543b12e71d9c746f828e7a</code></p>
+    </div>
+  </div>
+  <p class="mut">Billed per calendar month. If a run fails you get that month's usage credited — written into the service terms, not promised verbally. Cancel by replying to any digest email.</p>
+
+  <h2>What this is not</h2>
+  <ul>
+    <li>It does not buy, list, or reprice anything for you — you stay in control.</li>
+    <li>It does not scrape logged-in or personal data; only public product pages you supply.</li>
+    <li>It does not guarantee sales; it gives you the price facts on a schedule.</li>
+  </ul>
+
+  <footer>
+    <p>PriceWatch — operated by Hany. Contact: <a href="#" id="contact-link"><span id="contact-addr">email</span></a>.</p>
+    <p>Not affiliated with any retailer mentioned. Public page data only.</p>
+  </footer>
+
+</div>
+
+<script>
+/* The address is assembled at runtime so edge proxies cannot rewrite the links to a dead endpoint. */
+(function () {
+  var user = "hany-5267", AT = String.fromCharCode(64), DOT = String.fromCharCode(46);
+  var addr = user + AT + "agentmail" + DOT + "to";
+  var body = "Hi,\n\nStore name:\nProducts I want tracked (up to 5 URLs):\n1.\n2.\n3.\n\nThanks!";
+  document.querySelectorAll("[data-mailto]").forEach(function (el) {
+    var s = el.getAttribute("data-subject") || "";
+    var b = el.getAttribute("data-body");
+    var href = "mailto:" + addr;
+    if (s) { href += "?subject=" + encodeURIComponent(s); }
+    if (b) { href += (s ? "&" : "?") + "body=" + encodeURIComponent(b.replace(/&#10;/g, "\n")); }
+    el.setAttribute("href", href);
+  });
+  var a = document.getElementById("contact-link"), t = document.getElementById("contact-addr");
+  if (a && t) { a.setAttribute("href", "mailto:" + addr); t.textContent = addr; }
+})();
+</script>
+</body>
+</html>
