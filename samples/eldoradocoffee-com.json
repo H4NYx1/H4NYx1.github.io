@@ -1,0 +1,79 @@
+{
+  "prospect": "eldoradocoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Decaf - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 40ct",
+      "size_class": "sample (<4 oz)",
+      "price": 87.99,
+      "unit": 35.196,
+      "verdict": null
+    },
+    {
+      "product": "100% Colombian Supremo Coffee - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 40ct",
+      "size_class": "sample (<4 oz)",
+      "price": 84.99,
+      "unit": 33.995999999999995,
+      "verdict": null
+    },
+    {
+      "product": "Cafe Eldorado Espresso TINTO - Drip Grind Pre-Measured Coffee Fractional Pack 1.75oz 40ct",
+      "size_class": "sample (<4 oz)",
+      "price": 57.99,
+      "unit": 33.137142857142855,
+      "verdict": null
+    },
+    {
+      "product": "Nuconcept Blend - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 40ct",
+      "size_class": "sample (<4 oz)",
+      "price": 74.95,
+      "unit": 29.98,
+      "verdict": null
+    },
+    {
+      "product": "Decaf Chocolate Raspberry - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 24ct",
+      "size_class": "sample (<4 oz)",
+      "price": 66.99,
+      "unit": 26.796,
+      "verdict": null
+    },
+    {
+      "product": "Decaf Hazelnut - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 24ct",
+      "size_class": "sample (<4 oz)",
+      "price": 66.99,
+      "unit": 26.796,
+      "verdict": null
+    },
+    {
+      "product": "Decaf French Vanilla Blend - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 24ct",
+      "size_class": "sample (<4 oz)",
+      "price": 66.99,
+      "unit": 26.796,
+      "verdict": null
+    },
+    {
+      "product": "Peppermint Mocha - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 24ct",
+      "size_class": "sample (<4 oz)",
+      "price": 60.99,
+      "unit": 24.396,
+      "verdict": null
+    },
+    {
+      "product": "Seasonal Pumpkin Spice Blend - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 24ct",
+      "size_class": "sample (<4 oz)",
+      "price": 60.99,
+      "unit": 24.396,
+      "verdict": null
+    },
+    {
+      "product": "Hazelnut - Drip Grind Pre-Measured Coffee Fractional Pack 2.5oz 24ct",
+      "size_class": "sample (<4 oz)",
+      "price": 60.99,
+      "unit": 24.396,
+      "verdict": null
+    }
+  ],
+  "findings": [
+    "Across 23 of your 12 oz listings the median is $1.75/oz, against $2.29/oz across 241 peer 12 oz listings (-23.7%)."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "prospect": "ceremonycoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Leonela Vanessa Madrid Natural Gesha",
+      "size_class": "12 oz",
+      "price": 39.0,
+      "unit": 3.25,
+      "verdict": "+77.3% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Keramo",
+      "size_class": "12 oz",
+      "price": 32.0,
+      "unit": 2.6666666666666665,
+      "verdict": "+14.3% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Othosololo",
+      "size_class": "12 oz",
+      "price": 32.0,
+      "unit": 2.6666666666666665,
+      "verdict": "+14.3% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Laayyoo",
+      "size_class": "12 oz",
+      "price": 29.5,
+      "unit": 2.4583333333333335,
+      "verdict": "+5.4% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Yirgacheffe Chelbesa",
+      "size_class": "12 oz",
+      "price": 26.0,
+      "unit": 2.1666666666666665,
+      "verdict": "-7.1% per ounce vs peer median"
+    },
+    {
+      "product": "Kenya Murang'a Gondo AB",
+      "size_class": "12 oz",
+      "price": 26.0,
+      "unit": 2.1666666666666665,
+      "verdict": "-7.1% per ounce vs peer median"
+    },
+    {
+      "product": "Fall Annuals 2026",
+      "size_class": "12 oz",
+      "price": 25.0,
+      "unit": 2.0833333333333335,
+      "verdict": "+13.6% per ounce vs peer median"
+    },
+    {
+      "product": "Mexico Las Tejedoras",
+      "size_class": "12 oz",
+      "price": 23.0,
+      "unit": 1.9166666666666667,
+      "verdict": "-17.9% per ounce vs peer median"
+    },
+    {
+      "product": "Destroyer Office Subscription",
+      "size_class": "2 lb (32 oz)",
+      "price": 49.0,
+      "unit": 1.53125,
+      "verdict": "-14.0% per ounce vs peer median"
+    },
+    {
+      "product": "Mass Appeal Office Subscription",
+      "size_class": "2 lb (32 oz)",
+      "price": 49.0,
+      "unit": 1.53125,
+      "verdict": "-14.0% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 21 of your 12 oz listings the median is $3.25/oz, against $2.29/oz across 241 peer 12 oz listings (+41.8%).",
+    "Leonela Vanessa Madrid Natural Gesha (12 oz) sits 77% above the peer median per ounce ($1.83/oz, n=60).",
+    "Ethiopia Keramo (12 oz) sits 14% above the peer median per ounce ($2.33/oz, n=124).",
+    "Ethiopia Othosololo (12 oz) sits 14% above the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

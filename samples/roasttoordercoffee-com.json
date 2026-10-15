@@ -1,0 +1,79 @@
+{
+  "prospect": "roasttoordercoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Darjeeling GBOP Tea",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Market Chai",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Assam Indian FOP Tea",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Hibiscus Flower",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Garden Herb Tea",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Ginger Lemon Tea",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Mint Tea",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Assam GBOP Tea",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Oolong Tea Formosa",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    },
+    {
+      "product": "Lapsang Souchong",
+      "size_class": "sample (<4 oz)",
+      "price": 7.99,
+      "unit": 3.995,
+      "verdict": null
+    }
+  ],
+  "findings": [
+    "Across 160 of your 12 oz listings the median is $2.21/oz, against $2.25/oz across 202 peer 12 oz listings (-1.9%)."
+  ]
+}

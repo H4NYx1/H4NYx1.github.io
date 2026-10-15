@@ -1,0 +1,82 @@
+{
+  "prospect": "tandemcoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Hamasho Borena - Ethiopia",
+      "size_class": "12 oz",
+      "price": 33.0,
+      "unit": 2.75,
+      "verdict": "+17.9% per ounce vs peer median"
+    },
+    {
+      "product": "Kambarare - Kenya",
+      "size_class": "12 oz",
+      "price": 30.0,
+      "unit": 2.5,
+      "verdict": "+7.1% per ounce vs peer median"
+    },
+    {
+      "product": "Danche Yellow Honey- Ethiopia",
+      "size_class": "12 oz",
+      "price": 29.0,
+      "unit": 2.4166666666666665,
+      "verdict": "+3.6% per ounce vs peer median"
+    },
+    {
+      "product": "Faver Ninco - Colombia",
+      "size_class": "12 oz",
+      "price": 29.0,
+      "unit": 2.4166666666666665,
+      "verdict": "+3.6% per ounce vs peer median"
+    },
+    {
+      "product": "Kivanga - Kenya",
+      "size_class": "12 oz",
+      "price": 28.0,
+      "unit": 2.3333333333333335,
+      "verdict": "+0.0% per ounce vs peer median"
+    },
+    {
+      "product": "Tima - Ethiopia",
+      "size_class": "12 oz",
+      "price": 26.0,
+      "unit": 2.1666666666666665,
+      "verdict": "-7.1% per ounce vs peer median"
+    },
+    {
+      "product": "Drip Subscription - Local Pickup",
+      "size_class": "1 lb (16 oz)",
+      "price": 26.0,
+      "unit": 1.625,
+      "verdict": null
+    },
+    {
+      "product": "Built to Spill - Keep It Like a Secret",
+      "size_class": "size unknown",
+      "price": 35.0,
+      "unit": null,
+      "verdict": null
+    },
+    {
+      "product": "Wells Fargo - Watch Out!",
+      "size_class": "size unknown",
+      "price": 30.0,
+      "unit": null,
+      "verdict": null
+    },
+    {
+      "product": "Angine De Poitrine - Vol II",
+      "size_class": "size unknown",
+      "price": 30.0,
+      "unit": null,
+      "verdict": null
+    }
+  ],
+  "findings": [
+    "Across 36 of your 12 oz listings the median is $2.50/oz, against $2.29/oz across 241 peer 12 oz listings (+9.1%).",
+    "Hamasho Borena - Ethiopia (12 oz) sits 18% above the peer median per ounce ($2.33/oz, n=124).",
+    "Kambarare - Kenya (12 oz) sits 7% above the peer median per ounce ($2.33/oz, n=124).",
+    "Tima - Ethiopia (12 oz) sits 7% below the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

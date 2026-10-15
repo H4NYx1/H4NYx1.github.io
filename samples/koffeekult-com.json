@@ -1,0 +1,82 @@
+{
+  "prospect": "koffeekult.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Dark Roast Coffee \u2013 2oz Bags (Case of 60) \u2013 Perfect for Airbnb & Vacation Rentals",
+      "size_class": "sample (<4 oz)",
+      "price": 280.0,
+      "unit": 140.0,
+      "verdict": null
+    },
+    {
+      "product": "32oz Whole Bean Coffee Bundle (6-Pack)",
+      "size_class": "2 lb (32 oz)",
+      "price": 250.0,
+      "unit": 7.8125,
+      "verdict": null
+    },
+    {
+      "product": "32oz Whole Bean Coffee Bundle (3-Pack)",
+      "size_class": "2 lb (32 oz)",
+      "price": 125.0,
+      "unit": 3.90625,
+      "verdict": null
+    },
+    {
+      "product": "2 x 12oz Coffee Gift Box",
+      "size_class": "12 oz",
+      "price": 45.0,
+      "unit": 3.75,
+      "verdict": "+66.7% per ounce vs peer median"
+    },
+    {
+      "product": "Costa Rica Cumbres del Poas Coffee",
+      "size_class": "12 oz",
+      "price": 35.0,
+      "unit": 2.9166666666666665,
+      "verdict": "+29.6% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Yirgacheffe: Floral Elegant (Washed Heirloom)",
+      "size_class": "12 oz",
+      "price": 35.0,
+      "unit": 2.9166666666666665,
+      "verdict": "+29.6% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Harrar: Wild Heirloom (Ancient GERA Estate)",
+      "size_class": "12 oz",
+      "price": 30.0,
+      "unit": 2.5,
+      "verdict": "+11.1% per ounce vs peer median"
+    },
+    {
+      "product": "2 x 32oz Coffee Gift Box",
+      "size_class": "2 lb (32 oz)",
+      "price": 80.0,
+      "unit": 2.5,
+      "verdict": null
+    },
+    {
+      "product": "Frontera Decaf: Velvet Horizon (Water-Processed Blend)",
+      "size_class": "12 oz",
+      "price": 29.0,
+      "unit": 2.4166666666666665,
+      "verdict": "+7.4% per ounce vs peer median"
+    },
+    {
+      "product": "Half Caff Dark Roast: Shadow & Light (Water Process)",
+      "size_class": "12 oz",
+      "price": 28.0,
+      "unit": 2.3333333333333335,
+      "verdict": "+3.7% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 11 of your 12 oz listings the median is $2.42/oz, against $2.25/oz across 22 peer 12 oz listings (+7.4%).",
+    "2 x 12oz Coffee Gift Box (12 oz) sits 67% above the peer median per ounce ($2.25/oz, n=5).",
+    "Costa Rica Cumbres del Poas Coffee (12 oz) sits 30% above the peer median per ounce ($2.25/oz, n=22).",
+    "Ethiopia Yirgacheffe: Floral Elegant (Washed Heirloom) (12 oz) sits 30% above the peer median per ounce ($2.25/oz, n=22)."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "prospect": "ironbeancoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Raging Tiger - Bourbon Barrell Aged",
+      "size_class": "12 oz",
+      "price": 29.99,
+      "unit": 2.4991666666666665,
+      "verdict": "+36.3% per ounce vs peer median"
+    },
+    {
+      "product": "Dr. Knojoy's - Swiss Water Decaf",
+      "size_class": "12 oz",
+      "price": 16.99,
+      "unit": 1.4158333333333333,
+      "verdict": "-27.7% per ounce vs peer median"
+    },
+    {
+      "product": "Salted Caramel Mocha - 12oz",
+      "size_class": "12 oz",
+      "price": 15.99,
+      "unit": 1.3325,
+      "verdict": "-27.3% per ounce vs peer median"
+    },
+    {
+      "product": "Banana's Foster - 12oz",
+      "size_class": "12 oz",
+      "price": 15.99,
+      "unit": 1.3325,
+      "verdict": "-27.3% per ounce vs peer median"
+    },
+    {
+      "product": "Butter Pecan - 12oz",
+      "size_class": "12 oz",
+      "price": 15.99,
+      "unit": 1.3325,
+      "verdict": "-27.3% per ounce vs peer median"
+    },
+    {
+      "product": "Vanilla Hazelnut 12oz",
+      "size_class": "12 oz",
+      "price": 15.99,
+      "unit": 1.3325,
+      "verdict": "-27.3% per ounce vs peer median"
+    },
+    {
+      "product": "Intense Blueberry - 12oz",
+      "size_class": "12 oz",
+      "price": 15.99,
+      "unit": 1.3325,
+      "verdict": "-27.3% per ounce vs peer median"
+    },
+    {
+      "product": "Integrity\u2122 - Dark Roast",
+      "size_class": "1 lb (16 oz)",
+      "price": 19.99,
+      "unit": 1.249375,
+      "verdict": null
+    },
+    {
+      "product": "DARK ROCKO - Ethiopian Natural Process - Darker Roast",
+      "size_class": "1 lb (16 oz)",
+      "price": 19.99,
+      "unit": 1.249375,
+      "verdict": null
+    },
+    {
+      "product": "ROCKO - Ethiopian Natural Process - Medium Roast",
+      "size_class": "1 lb (16 oz)",
+      "price": 19.99,
+      "unit": 1.249375,
+      "verdict": null
+    }
+  ],
+  "findings": [
+    "Across 13 of your 12 oz listings the median is $1.33/oz, against $2.29/oz across 241 peer 12 oz listings (-41.9%).",
+    "Raging Tiger - Bourbon Barrell Aged (12 oz) sits 36% above the peer median per ounce ($1.83/oz, n=60).",
+    "Dr. Knojoy's - Swiss Water Decaf (12 oz) sits 28% below the peer median per ounce ($1.96/oz, n=16).",
+    "Salted Caramel Mocha - 12oz (12 oz) sits 27% below the peer median per ounce ($1.83/oz, n=60)."
+  ]
+}

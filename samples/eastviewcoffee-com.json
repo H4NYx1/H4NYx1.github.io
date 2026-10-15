@@ -1,0 +1,82 @@
+{
+  "prospect": "eastviewcoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Don Clodoveo Direct Relationship Coffee from Costa Rica",
+      "size_class": "12 oz",
+      "price": 29.0,
+      "unit": 2.4166666666666665,
+      "verdict": "+3.6% per ounce vs peer median"
+    },
+    {
+      "product": "Dehab's Diamonds Ethiopian Freshly Roasted Coffee",
+      "size_class": "12 oz",
+      "price": 28.0,
+      "unit": 2.3333333333333335,
+      "verdict": "+0.0% per ounce vs peer median"
+    },
+    {
+      "product": "Caf\u00e9 con Amor Costa Rica Coffee",
+      "size_class": "12 oz",
+      "price": 28.0,
+      "unit": 2.3333333333333335,
+      "verdict": "+0.0% per ounce vs peer median"
+    },
+    {
+      "product": "ROYGBIV Blend",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "+20.0% per ounce vs peer median"
+    },
+    {
+      "product": "Obsidian Freshly Roasted Coffee",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "+9.1% per ounce vs peer median"
+    },
+    {
+      "product": "Do\u00f1a Duglas - Mexico",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "-14.3% per ounce vs peer median"
+    },
+    {
+      "product": "Community Freshly Roasted Coffee",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "+9.1% per ounce vs peer median"
+    },
+    {
+      "product": "Nocturne Decaf Freshly Roasted Coffee",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "+2.1% per ounce vs peer median"
+    },
+    {
+      "product": "Midnight Hero Decaf Coffee",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "+2.1% per ounce vs peer median"
+    },
+    {
+      "product": "Reverie Freshly Roasted Coffee",
+      "size_class": "12 oz",
+      "price": 24.0,
+      "unit": 2.0,
+      "verdict": "+9.1% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 44 of your 12 oz listings the median is $2.00/oz, against $2.29/oz across 241 peer 12 oz listings (-12.7%).",
+    "ROYGBIV Blend (12 oz) sits 20% above the peer median per ounce ($1.67/oz, n=24).",
+    "Obsidian Freshly Roasted Coffee (12 oz) sits 9% above the peer median per ounce ($1.83/oz, n=60).",
+    "Do\u00f1a Duglas - Mexico (12 oz) sits 14% below the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

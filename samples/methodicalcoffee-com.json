@@ -1,0 +1,82 @@
+{
+  "prospect": "methodicalcoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Dayglow x Methodical",
+      "size_class": "8 oz",
+      "price": 30.0,
+      "unit": 3.4090909090909087,
+      "verdict": "+2.3% per ounce vs peer median"
+    },
+    {
+      "product": "Costa Rica, El Renacer",
+      "size_class": "12 oz",
+      "price": 36.0,
+      "unit": 3.0,
+      "verdict": "+28.6% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia, Nogales Low-Caff",
+      "size_class": "12 oz",
+      "price": 36.0,
+      "unit": 3.0,
+      "verdict": "+28.6% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia, Andr\u00e9s Cardona",
+      "size_class": "12 oz",
+      "price": 36.0,
+      "unit": 3.0,
+      "verdict": "+28.6% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia, Ventola Orange",
+      "size_class": "12 oz",
+      "price": 35.89,
+      "unit": 2.9908333333333332,
+      "verdict": "+28.2% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia, Othosololo",
+      "size_class": "12 oz",
+      "price": 34.91,
+      "unit": 2.9091666666666662,
+      "verdict": "+24.7% per ounce vs peer median"
+    },
+    {
+      "product": "Kenya, Tekangu",
+      "size_class": "12 oz",
+      "price": 34.75,
+      "unit": 2.8958333333333335,
+      "verdict": "+24.1% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia, Sara & Mar\u00eda Tob\u00f3n",
+      "size_class": "12 oz",
+      "price": 33.62,
+      "unit": 2.8016666666666663,
+      "verdict": "+20.1% per ounce vs peer median"
+    },
+    {
+      "product": "Per\u00fa, Fidel Huancas",
+      "size_class": "12 oz",
+      "price": 30.8,
+      "unit": 2.566666666666667,
+      "verdict": "+40.0% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia, Layo Teraga",
+      "size_class": "12 oz",
+      "price": 29.11,
+      "unit": 2.4258333333333333,
+      "verdict": "+4.0% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 33 of your 12 oz listings the median is $2.10/oz, against $2.29/oz across 241 peer 12 oz listings (-8.2%).",
+    "Costa Rica, El Renacer (12 oz) sits 29% above the peer median per ounce ($2.33/oz, n=124).",
+    "Colombia, Nogales Low-Caff (12 oz) sits 29% above the peer median per ounce ($2.33/oz, n=124).",
+    "Colombia, Andr\u00e9s Cardona (12 oz) sits 29% above the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

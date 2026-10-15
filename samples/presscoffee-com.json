@@ -1,0 +1,82 @@
+{
+  "prospect": "presscoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Ecuador Finca Cruz Loma Coffee",
+      "size_class": "12 oz",
+      "price": 46.0,
+      "unit": 3.8333333333333335,
+      "verdict": "+109.1% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia Finca Quebraditas",
+      "size_class": "12 oz",
+      "price": 44.0,
+      "unit": 3.6666666666666665,
+      "verdict": "+57.1% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Banko Gotiti",
+      "size_class": "12 oz",
+      "price": 40.0,
+      "unit": 3.3333333333333335,
+      "verdict": "+42.9% per ounce vs peer median"
+    },
+    {
+      "product": "El Salvador El Angel",
+      "size_class": "12 oz",
+      "price": 38.0,
+      "unit": 3.1666666666666665,
+      "verdict": "+72.7% per ounce vs peer median"
+    },
+    {
+      "product": "Nicaragua La Bastilla",
+      "size_class": "12 oz",
+      "price": 32.0,
+      "unit": 2.6666666666666665,
+      "verdict": "+14.3% per ounce vs peer median"
+    },
+    {
+      "product": "Haiti Baptiste Bleu\t Coffee",
+      "size_class": "12 oz",
+      "price": 32.0,
+      "unit": 2.6666666666666665,
+      "verdict": "+45.5% per ounce vs peer median"
+    },
+    {
+      "product": "Uganda Stancoffee",
+      "size_class": "12 oz",
+      "price": 30.0,
+      "unit": 2.5,
+      "verdict": "+36.4% per ounce vs peer median"
+    },
+    {
+      "product": "Bali Kintamani",
+      "size_class": "12 oz",
+      "price": 30.0,
+      "unit": 2.5,
+      "verdict": "+36.4% per ounce vs peer median"
+    },
+    {
+      "product": "Honduras Bendici\u00f3n",
+      "size_class": "12 oz",
+      "price": 30.0,
+      "unit": 2.5,
+      "verdict": "+7.1% per ounce vs peer median"
+    },
+    {
+      "product": "Papua New Guinea Arufa",
+      "size_class": "12 oz",
+      "price": 30.0,
+      "unit": 2.5,
+      "verdict": "+36.4% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 116 of your 12 oz listings the median is $2.33/oz, against $2.29/oz across 241 peer 12 oz listings (+1.8%).",
+    "Ecuador Finca Cruz Loma Coffee (12 oz) sits 109% above the peer median per ounce ($1.83/oz, n=60).",
+    "Colombia Finca Quebraditas (12 oz) sits 57% above the peer median per ounce ($2.33/oz, n=124).",
+    "Ethiopia Banko Gotiti (12 oz) sits 43% above the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

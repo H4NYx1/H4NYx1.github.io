@@ -1,0 +1,77 @@
+{
+  "prospect": "coffeebeandirect.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "CO2 Decaf Peach Black Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 30.99,
+      "unit": 1.936875,
+      "verdict": null
+    },
+    {
+      "product": "CO2 Decaf Spiced Chai Black Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 30.99,
+      "unit": 1.936875,
+      "verdict": null
+    },
+    {
+      "product": "CO2 Decaf Earl Grey Black Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 30.99,
+      "unit": 1.936875,
+      "verdict": null
+    },
+    {
+      "product": "Assam Black Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 26.99,
+      "unit": 1.686875,
+      "verdict": null
+    },
+    {
+      "product": "Peach Lemonade Green Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 26.99,
+      "unit": 1.686875,
+      "verdict": null
+    },
+    {
+      "product": "Irish Breakfast Black Tea Blend",
+      "size_class": "1 lb (16 oz)",
+      "price": 25.99,
+      "unit": 1.624375,
+      "verdict": null
+    },
+    {
+      "product": "Iced Tea Black Tea Blend",
+      "size_class": "1 lb (16 oz)",
+      "price": 25.99,
+      "unit": 1.624375,
+      "verdict": null
+    },
+    {
+      "product": "Wildberry Twist Herbal Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 25.99,
+      "unit": 1.624375,
+      "verdict": null
+    },
+    {
+      "product": "Summer Blossom Herbal Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 25.99,
+      "unit": 1.624375,
+      "verdict": null
+    },
+    {
+      "product": "Passion Punch Black Tea",
+      "size_class": "1 lb (16 oz)",
+      "price": 25.99,
+      "unit": 1.624375,
+      "verdict": null
+    }
+  ],
+  "findings": []
+}

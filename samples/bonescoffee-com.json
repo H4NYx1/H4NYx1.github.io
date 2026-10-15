@@ -1,0 +1,82 @@
+{
+  "prospect": "bonescoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Bourbon Barrel-Aged | 12oz",
+      "size_class": "12 oz",
+      "price": 29.99,
+      "unit": 2.4991666666666665,
+      "verdict": "+36.3% per ounce vs peer median"
+    },
+    {
+      "product": "Beskar Brew | 12oz",
+      "size_class": "12 oz",
+      "price": 19.99,
+      "unit": 1.6658333333333333,
+      "verdict": "-9.1% per ounce vs peer median"
+    },
+    {
+      "product": "Cantina Caramel Crunch | 12oz",
+      "size_class": "12 oz",
+      "price": 19.99,
+      "unit": 1.6658333333333333,
+      "verdict": "-9.1% per ounce vs peer median"
+    },
+    {
+      "product": "Bones After Dark | 4oz",
+      "size_class": "8 oz",
+      "price": 6.6,
+      "unit": 1.65,
+      "verdict": "-50.5% per ounce vs peer median"
+    },
+    {
+      "product": "Maple Waffle | 4oz",
+      "size_class": "8 oz",
+      "price": 6.6,
+      "unit": 1.65,
+      "verdict": "-50.5% per ounce vs peer median"
+    },
+    {
+      "product": "Toffee Almond Crunch | 12oz",
+      "size_class": "12 oz",
+      "price": 17.99,
+      "unit": 1.4991666666666665,
+      "verdict": "-18.2% per ounce vs peer median"
+    },
+    {
+      "product": "Sugar Rush | 12oz",
+      "size_class": "12 oz",
+      "price": 17.99,
+      "unit": 1.4991666666666665,
+      "verdict": "-18.2% per ounce vs peer median"
+    },
+    {
+      "product": "Jingle Bones | 12oz",
+      "size_class": "12 oz",
+      "price": 17.99,
+      "unit": 1.4991666666666665,
+      "verdict": "-18.2% per ounce vs peer median"
+    },
+    {
+      "product": "Bones After Dark | 12oz",
+      "size_class": "12 oz",
+      "price": 17.99,
+      "unit": 1.4991666666666665,
+      "verdict": "-18.2% per ounce vs peer median"
+    },
+    {
+      "product": "Birthday Suit | 12oz",
+      "size_class": "12 oz",
+      "price": 17.99,
+      "unit": 1.4991666666666665,
+      "verdict": "-18.2% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 33 of your 12 oz listings the median is $1.50/oz, against $2.29/oz across 241 peer 12 oz listings (-34.6%).",
+    "Bourbon Barrel-Aged | 12oz (12 oz) sits 36% above the peer median per ounce ($1.83/oz, n=60).",
+    "Beskar Brew | 12oz (12 oz) sits 9% below the peer median per ounce ($1.83/oz, n=60).",
+    "Cantina Caramel Crunch | 12oz (12 oz) sits 9% below the peer median per ounce ($1.83/oz, n=60)."
+  ]
+}

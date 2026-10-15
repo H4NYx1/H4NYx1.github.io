@@ -1,0 +1,82 @@
+{
+  "prospect": "mothershipcoffee.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Ethiopia Supernatural",
+      "size_class": "12 oz",
+      "price": 25.0,
+      "unit": 2.0833333333333335,
+      "verdict": "-10.7% per ounce vs peer median"
+    },
+    {
+      "product": "Restoration Blend",
+      "size_class": "12 oz",
+      "price": 23.0,
+      "unit": 1.9166666666666667,
+      "verdict": "+15.0% per ounce vs peer median"
+    },
+    {
+      "product": "Guatemala Huehuetenango",
+      "size_class": "12 oz",
+      "price": 23.0,
+      "unit": 1.9166666666666667,
+      "verdict": "-17.9% per ounce vs peer median"
+    },
+    {
+      "product": "Mexico Cafe Femenino",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-25.0% per ounce vs peer median"
+    },
+    {
+      "product": "Mexico Decaf",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-10.6% per ounce vs peer median"
+    },
+    {
+      "product": "Ballast Espresso",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-34.4% per ounce vs peer median"
+    },
+    {
+      "product": "Peru Penachi",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-25.0% per ounce vs peer median"
+    },
+    {
+      "product": "Dark Galaxy",
+      "size_class": "12 oz",
+      "price": 18.5,
+      "unit": 1.5416666666666667,
+      "verdict": "-7.5% per ounce vs peer median"
+    },
+    {
+      "product": "The Orbit",
+      "size_class": "12 oz",
+      "price": 18.5,
+      "unit": 1.5416666666666667,
+      "verdict": "-15.9% per ounce vs peer median"
+    },
+    {
+      "product": "Atlas Light",
+      "size_class": "12 oz",
+      "price": 18.5,
+      "unit": 1.5416666666666667,
+      "verdict": "-15.9% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 30 of your 12 oz listings the median is $1.75/oz, against $2.29/oz across 241 peer 12 oz listings (-23.6%).",
+    "Ethiopia Supernatural (12 oz) sits 11% below the peer median per ounce ($2.33/oz, n=124).",
+    "Restoration Blend (12 oz) sits 15% above the peer median per ounce ($1.67/oz, n=24).",
+    "Guatemala Huehuetenango (12 oz) sits 18% below the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

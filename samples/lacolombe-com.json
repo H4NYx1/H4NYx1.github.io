@@ -1,0 +1,82 @@
+{
+  "prospect": "lacolombe.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Around the World Gift Box",
+      "size_class": "12 oz",
+      "price": 59.0,
+      "unit": 4.916666666666667,
+      "verdict": "+118.5% per ounce vs peer median"
+    },
+    {
+      "product": "Bestsellers Gift Box",
+      "size_class": "12 oz",
+      "price": 47.0,
+      "unit": 3.9166666666666665,
+      "verdict": "+74.1% per ounce vs peer median"
+    },
+    {
+      "product": "Single Origin Pack",
+      "size_class": "12 oz",
+      "price": 39.0,
+      "unit": 3.25,
+      "verdict": "+44.4% per ounce vs peer median"
+    },
+    {
+      "product": "Fall Favorites Pack",
+      "size_class": "12 oz",
+      "price": 37.0,
+      "unit": 3.0833333333333335,
+      "verdict": "+37.0% per ounce vs peer median"
+    },
+    {
+      "product": "Ultimate Espresso Pack",
+      "size_class": "12 oz",
+      "price": 34.0,
+      "unit": 2.8333333333333335,
+      "verdict": "+25.9% per ounce vs peer median"
+    },
+    {
+      "product": "Chocolate Lover's Pack",
+      "size_class": "12 oz",
+      "price": 34.0,
+      "unit": 2.8333333333333335,
+      "verdict": "+25.9% per ounce vs peer median"
+    },
+    {
+      "product": "Fall Blend",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-22.2% per ounce vs peer median"
+    },
+    {
+      "product": "Mexico Chiapas",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-22.2% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia - San Roque",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-22.2% per ounce vs peer median"
+    },
+    {
+      "product": "Waymaker",
+      "size_class": "12 oz",
+      "price": 18.0,
+      "unit": 1.5,
+      "verdict": "-33.3% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 31 of your 12 oz listings the median is $1.50/oz, against $2.25/oz across 22 peer 12 oz listings (-33.3%).",
+    "Around the World Gift Box (12 oz) sits 119% above the peer median per ounce ($2.25/oz, n=5).",
+    "Bestsellers Gift Box (12 oz) sits 74% above the peer median per ounce ($2.25/oz, n=5).",
+    "Single Origin Pack (12 oz) sits 44% above the peer median per ounce ($2.25/oz, n=22)."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "prospect": "kunjaninaples.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Ethiopia Bette Buna Natural",
+      "size_class": "12 oz",
+      "price": 23.0,
+      "unit": 1.9166666666666667,
+      "verdict": "-17.9% per ounce vs peer median"
+    },
+    {
+      "product": "Kenya Mandela Estate",
+      "size_class": "12 oz",
+      "price": 23.0,
+      "unit": 1.9166666666666667,
+      "verdict": "-17.9% per ounce vs peer median"
+    },
+    {
+      "product": "Decaf Colombia Tolima EA",
+      "size_class": "12 oz",
+      "price": 22.5,
+      "unit": 1.875,
+      "verdict": "-4.3% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Shanta Golba Natural",
+      "size_class": "12 oz",
+      "price": 22.5,
+      "unit": 1.875,
+      "verdict": "-19.6% per ounce vs peer median"
+    },
+    {
+      "product": "Sumatra Buana Mandiri",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-25.0% per ounce vs peer median"
+    },
+    {
+      "product": "Holiday Blend 2025",
+      "size_class": "12 oz",
+      "price": 20.75,
+      "unit": 1.7291666666666667,
+      "verdict": "+3.8% per ounce vs peer median"
+    },
+    {
+      "product": "Guatemala Manos de Mujer",
+      "size_class": "12 oz",
+      "price": 20.75,
+      "unit": 1.7291666666666667,
+      "verdict": "-25.9% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia Bochica",
+      "size_class": "12 oz",
+      "price": 20.5,
+      "unit": 1.7083333333333333,
+      "verdict": "-26.8% per ounce vs peer median"
+    },
+    {
+      "product": "Honduras La Labor",
+      "size_class": "12 oz",
+      "price": 20.0,
+      "unit": 1.6666666666666667,
+      "verdict": "-28.6% per ounce vs peer median"
+    },
+    {
+      "product": "Burundi Kayanza Gakenke",
+      "size_class": "12 oz",
+      "price": 20.0,
+      "unit": 1.6666666666666667,
+      "verdict": "-28.6% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 124 of your 12 oz listings the median is $1.58/oz, against $2.29/oz across 241 peer 12 oz listings (-30.9%).",
+    "Ethiopia Bette Buna Natural (12 oz) sits 18% below the peer median per ounce ($2.33/oz, n=124).",
+    "Kenya Mandela Estate (12 oz) sits 18% below the peer median per ounce ($2.33/oz, n=124).",
+    "Ethiopia Shanta Golba Natural (12 oz) sits 20% below the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

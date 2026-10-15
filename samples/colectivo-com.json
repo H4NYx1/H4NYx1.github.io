@@ -1,0 +1,82 @@
+{
+  "prospect": "colectivo.com",
+  "day": "2026-10-15",
+  "rows": [
+    {
+      "product": "Guatemala Juana Gaspar",
+      "size_class": "12 oz",
+      "price": 21.0,
+      "unit": 1.75,
+      "verdict": "-25.0% per ounce vs peer median"
+    },
+    {
+      "product": "Guatemala Mountain of Flowers",
+      "size_class": "12 oz",
+      "price": 18.0,
+      "unit": 1.5,
+      "verdict": "-35.7% per ounce vs peer median"
+    },
+    {
+      "product": "Ethiopia Guji Hambela Natural",
+      "size_class": "12 oz",
+      "price": 18.0,
+      "unit": 1.5,
+      "verdict": "-35.7% per ounce vs peer median"
+    },
+    {
+      "product": "Yeli Blend",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-15.2% per ounce vs peer median"
+    },
+    {
+      "product": "Girls on the Run",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-23.0% per ounce vs peer median"
+    },
+    {
+      "product": "FTO Harvest Blend",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-15.2% per ounce vs peer median"
+    },
+    {
+      "product": "Botanica",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-23.0% per ounce vs peer median"
+    },
+    {
+      "product": "Badger Blend\u2122",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-15.2% per ounce vs peer median"
+    },
+    {
+      "product": "Mexico Kulaktik",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-39.5% per ounce vs peer median"
+    },
+    {
+      "product": "Colombia Paso Fino",
+      "size_class": "12 oz",
+      "price": 16.95,
+      "unit": 1.4124999999999999,
+      "verdict": "-39.5% per ounce vs peer median"
+    }
+  ],
+  "findings": [
+    "Across 29 of your 12 oz listings the median is $1.41/oz, against $2.29/oz across 241 peer 12 oz listings (-38.4%).",
+    "Guatemala Juana Gaspar (12 oz) sits 25% below the peer median per ounce ($2.33/oz, n=124).",
+    "Guatemala Mountain of Flowers (12 oz) sits 36% below the peer median per ounce ($2.33/oz, n=124).",
+    "Ethiopia Guji Hambela Natural (12 oz) sits 36% below the peer median per ounce ($2.33/oz, n=124)."
+  ]
+}

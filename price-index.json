@@ -1,0 +1,172 @@
+{
+  "generated": "2026-10-15",
+  "source": "public Shopify /products.json",
+  "pack_size": "12 oz",
+  "rows": [
+    {
+      "host": "sightglasscoffee.com",
+      "n_listings": 516,
+      "n_12oz": 176,
+      "error": null,
+      "bag_median": 26.25,
+      "bag_low": 19.0,
+      "bag_high": 45.0,
+      "unit_median": 2.292,
+      "currency": "USD"
+    },
+    {
+      "host": "equatorcoffees.com",
+      "n_listings": 414,
+      "n_12oz": 127,
+      "error": null,
+      "bag_median": 21.75,
+      "bag_low": 14.0,
+      "bag_high": 77.0,
+      "unit_median": 1.812,
+      "currency": "USD"
+    },
+    {
+      "host": "counterculturecoffee.com",
+      "n_listings": 138,
+      "n_12oz": 78,
+      "error": null,
+      "bag_median": 26.0,
+      "bag_low": 19.0,
+      "bag_high": 45.0,
+      "unit_median": 2.167,
+      "currency": "USD"
+    },
+    {
+      "host": "onyxcoffeelab.com",
+      "n_listings": 258,
+      "n_12oz": 43,
+      "error": null,
+      "bag_median": 38.0,
+      "bag_low": 0.0,
+      "bag_high": 250.0,
+      "unit_median": 3.8,
+      "currency": "USD"
+    },
+    {
+      "host": "passengercoffee.com",
+      "n_listings": 303,
+      "n_12oz": 2,
+      "error": null,
+      "bag_median": 19.5,
+      "bag_low": 19.0,
+      "bag_high": 20.0,
+      "unit_median": 1.783,
+      "currency": "USD"
+    },
+    {
+      "host": "tandemcoffee.com",
+      "n_listings": 247,
+      "n_12oz": 36,
+      "error": null,
+      "bag_median": 30.0,
+      "bag_low": 26.0,
+      "bag_high": 34.0,
+      "unit_median": 2.5,
+      "currency": "USD"
+    },
+    {
+      "host": "methodicalcoffee.com",
+      "n_listings": 155,
+      "n_12oz": 47,
+      "error": null,
+      "bag_median": 25.0,
+      "bag_low": 18.0,
+      "bag_high": 36.0,
+      "unit_median": 2.083,
+      "currency": "USD"
+    },
+    {
+      "host": "ceremonycoffee.com",
+      "n_listings": 223,
+      "n_12oz": 26,
+      "error": null,
+      "bag_median": 35.5,
+      "bag_low": 9.65,
+      "bag_high": 234.0,
+      "unit_median": 2.958,
+      "currency": "USD"
+    },
+    {
+      "host": "bonescoffee.com",
+      "n_listings": 149,
+      "n_12oz": 58,
+      "error": null,
+      "bag_median": 17.99,
+      "bag_low": 15.99,
+      "bag_high": 29.99,
+      "unit_median": 1.499,
+      "currency": "USD"
+    },
+    {
+      "host": "ironbeancoffee.com",
+      "n_listings": 111,
+      "n_12oz": 13,
+      "error": null,
+      "bag_median": 15.99,
+      "bag_low": 15.99,
+      "bag_high": 29.99,
+      "unit_median": 1.333,
+      "currency": "USD"
+    },
+    {
+      "host": "colectivo.com",
+      "n_listings": 216,
+      "n_12oz": 65,
+      "error": null,
+      "bag_median": 16.95,
+      "bag_low": 1.0,
+      "bag_high": 21.0,
+      "unit_median": 1.412,
+      "currency": "USD"
+    },
+    {
+      "host": "kunjaninaples.com",
+      "n_listings": 353,
+      "n_12oz": 124,
+      "error": null,
+      "bag_median": 19.0,
+      "bag_low": 14.0,
+      "bag_high": 23.0,
+      "unit_median": 1.583,
+      "currency": "USD"
+    },
+    {
+      "host": "mothershipcoffee.com",
+      "n_listings": 66,
+      "n_12oz": 30,
+      "error": null,
+      "bag_median": 21.0,
+      "bag_low": 18.5,
+      "bag_high": 25.0,
+      "unit_median": 1.75,
+      "currency": "USD"
+    },
+    {
+      "host": "eastviewcoffee.com",
+      "n_listings": 142,
+      "n_12oz": 44,
+      "error": null,
+      "bag_median": 24.0,
+      "bag_low": 23.0,
+      "bag_high": 30.5,
+      "unit_median": 2.0,
+      "currency": "USD"
+    },
+    {
+      "host": "presscoffee.com",
+      "n_listings": 992,
+      "n_12oz": 321,
+      "error": null,
+      "bag_median": 24.0,
+      "bag_low": 15.2,
+      "bag_high": 46.0,
+      "unit_median": 2.0,
+      "currency": "USD"
+    }
+  ]
+}
