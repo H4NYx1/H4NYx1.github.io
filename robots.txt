@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h4nyx1.github.io/pricewatch/sitemap.xml
